@@ -1,5 +1,5 @@
 
-![](http://gouz.webfactional.com/Gouz_Sources/Chronocity/quick pik.png)
+![](http://gouz.webfactional.com/Gouz_Sources/Chronocity/intro_pik.png)
 
 
 ## Demo video  
