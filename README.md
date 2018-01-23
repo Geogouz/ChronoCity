@@ -1,9 +1,3 @@
-## Demo
-A functional online demo can be found at: www.chronocity.net
-_(29-6-2017)_  
-
-Before executing a change detection, make sure the service is running by browsing to www.chronocity.net:12839/test  
-
 ## Demo video  
 A demo video can be found at: https://www.youtube.com/watch?v=lqZBHaU7G08
 
