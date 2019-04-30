@@ -8,7 +8,7 @@ The ChronoCity online environment enables everybody to explore the fascinating 3
 A demo video can be found at: https://www.youtube.com/watch?v=lqZBHaU7G08
 
 ## Technical Report
-The Technical Report can be found [here](https://repository.tudelft.nl/islandora/object/uuid%3A4088debb-bc22-48d3-9085-a847aa3d3c92).
+The Technical Report can be found published [here](https://repository.tudelft.nl/islandora/object/uuid%3A4088debb-bc22-48d3-9085-a847aa3d3c92).
 
 # ChronoCity Installation
 
