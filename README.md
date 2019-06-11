@@ -1,4 +1,4 @@
-The ChronoCity online environment enables everybody to explore the fascinating 3D world around them. Find your adress, share your view with friends and conduct on-the-fly change detection - anywhere.
+The ChronoCity online environment enables everybody to explore the fascinating 3D world around them. Find your address, share your view with friends and conduct on-the-fly change detection - anywhere.
 
 
 ![](http://gouz.webfactional.com/Gouz_Sources/Chronocity/intro_pik.png)
